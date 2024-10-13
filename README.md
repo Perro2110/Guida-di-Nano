@@ -1,4 +1,4 @@
-# Guida Avanzata per Nano: Usalo come un Pro
+# Guida Avanzata per Nano: Usalo come un professionista 
 
 ## Introduzione
 Nano è un editor di testo semplice ma potente per sistemi Unix-like. Questa guida ti aiuterà a sfruttarlo al massimo.
